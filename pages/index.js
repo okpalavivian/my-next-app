@@ -1,10 +1,10 @@
 import styles from '../styles/home.module.css'
-import Home from '../pages/Home'
+import Slide from '../pages/Slide'
 
 const App =()=>{
   return(
     <div>
-<Home />
+<Slide/>
     </div>
       )
 }
